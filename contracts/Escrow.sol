@@ -81,7 +81,7 @@ contract Escrow {
     function approveSale(uint256 _nftID) public {
         approval[_nftID][msg.sender] = true;
     }
-
+     // Detail about Estate Sale for Escrow hold
     // Finalize Sale
     // -> Require inspection status (add more items here, like appraisal)
     // -> Require sale to be authorized
