@@ -1,0 +1,37 @@
+{
+    "name": "Corner Side Country House",
+    "address": "157 W 57th St APT 49B, wyoming, NY 10019",
+    "description": "Maple Wood Country House at the conrer of wyoming forest",
+    "image": "https://ipfs.io/ipfs/QmQUozrHLAusXDxrvsESJ3PYB3rUeUuBAvVWw6nop2uu7c/1.png",
+    "id": "1",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 40
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Country house/ farmhouse"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 4
+        },
+      {
+            "trait_type": "Yards",
+            "value": 2
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 3900
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2018
+        }
+    ]
+}
